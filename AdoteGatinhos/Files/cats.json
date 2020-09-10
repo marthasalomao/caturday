@@ -1,0 +1,57 @@
+[
+    {
+        "name": "York Chocolate",
+        "origin": "United States",
+        "temperament": "Playful, Social, Intelligent, Curious, Friendly",
+    },
+    {
+        "name": "Pixie-bob",
+        "origin": "United States",
+        "temperament": "Affectionate, Social, Intelligent, Loyal",
+    },
+    {
+        "name": "Russian Blue",
+        "origin": "Russia",
+        "temperament": "Active, Dependent, Easy Going, Gentle, Intelligent, Loyal, Playful, Quiet",
+    },
+    {
+        "name": "American Bobtail",
+        "origin": "United States",
+        "temperament": "Intelligent, Interactive, Lively, Playful, Sensitive",
+    },
+    {
+        "name": "European Burmese",
+        "origin": "Burma",
+        "temperament": "Sweet, Affectionate, Loyal",
+    },
+    {
+        "name": "Tonkinese",
+        "origin": "Canada",
+        "temperament": "Curious, Intelligent, Social, Lively, Outgoing, Playful, Affectionate",
+    },
+    {
+        "name": "Norwegian Forest Cat",
+        "origin": "Norway",
+        "temperament": "Sweet, Active, Intelligent, Social, Playful, Lively, Curious",
+    },
+    {
+        "name": "Scottish Fold",
+        "origin": "United Kingdom",
+        "temperament": "Affectionate, Intelligent, Loyal, Playful, Social, Sweet, Loving",
+    },
+    {
+        "name": "Savannah",
+        "origin": "United States",
+        "temperament": "Curious, Social, Intelligent, Loyal, Outgoing, Adventurous, Affectionate",
+    },
+    {
+        "name": "Japanese Bobtail",
+        "origin": "Japan",
+        "temperament": "Active, Agile, Clever, Easy Going, Intelligent, Lively, Loyal, Playful, Social",
+    },
+    {
+        "name": "Chausie",
+        "origin": "Egypt",
+        "temperament": "Affectionate, Intelligent, Playful, Social",
+    },
+]
